@@ -1,3 +1,5 @@
+import './js/render-tasks';
+
 /*
   Створи список справ.
   На сторінці є два інпути які має вводиться назва і текст задачі.
@@ -9,8 +11,8 @@
 
   Розмітка картки задачі
   <li class="task-list-item">
-      <button class="task-list-item-btn">Delete</button>
-      <h3>Заголовок</h3>
-      <p>Текст</p>
-  </li>
+        <button class="task-list-item-btn">Delete</button>
+        <h3>Заголовок</h3>
+        <p>Текст</p>
+      </li>
 */
